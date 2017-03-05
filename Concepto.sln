@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.BaseCore", "Concepto.BaseCore\Concepto.BaseCore.csproj", "{0C907DB3-1FB5-402C-B1E0-6243F7A68A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.Droid", "Concepto.Droid\Concepto.Droid.csproj", "{DF5F8048-1A93-4E5F-8E47-727EBA439A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.Module.Home.Droid", "Concepto.Module.Home.Droid\Concepto.Module.Home.Droid.csproj", "{3D6ACA2E-8D3B-4241-985B-5C839736B84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.Module.Home.BusinessLogic", "Concepto.Module.Home.BusinessLogic\Concepto.Module.Home.BusinessLogic.csproj", "{BEABAA62-1158-40A9-A9E4-83E9312608E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.Module.Product.BusinessLogin", "Concepto.Module.Product.BusinessLogin\Concepto.Module.Product.BusinessLogin.csproj", "{EEC6D97E-A175-4BC4-9554-827837F1F3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepto.Module.Product.Droid", "Concepto.Module.Product.Droid\Concepto.Module.Product.Droid.csproj", "{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C907DB3-1FB5-402C-B1E0-6243F7A68A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C907DB3-1FB5-402C-B1E0-6243F7A68A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C907DB3-1FB5-402C-B1E0-6243F7A68A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C907DB3-1FB5-402C-B1E0-6243F7A68A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5F8048-1A93-4E5F-8E47-727EBA439A98}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6ACA2E-8D3B-4241-985B-5C839736B84A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BEABAA62-1158-40A9-A9E4-83E9312608E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEABAA62-1158-40A9-A9E4-83E9312608E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEABAA62-1158-40A9-A9E4-83E9312608E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEABAA62-1158-40A9-A9E4-83E9312608E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC6D97E-A175-4BC4-9554-827837F1F3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC6D97E-A175-4BC4-9554-827837F1F3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC6D97E-A175-4BC4-9554-827837F1F3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC6D97E-A175-4BC4-9554-827837F1F3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CC4414-D994-45FC-BAE4-FA063E44CD9C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
